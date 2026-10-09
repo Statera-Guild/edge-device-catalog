@@ -1,0 +1,7 @@
+﻿source_id,component_id,sku,publisher,document_title,source_type,url,revision,published_at,accessed_at,license_publication,review_state
+SRC-0006-01,CMP-EAM-0006,QCS6490,Qualcomm,RB3 Gen 2 Core Kit Product Brief,manufacturer_product_brief,https://docs.qualcomm.com/doc/87-79891-1/87-79891-1_REV_B_Qualcomm_Dragonwing_RB3_Gen_2_Core_Kit_Product_Brief.pdf,Rev B,,2026-10-09,link_only,in_review
+SRC-0006-02,CMP-EAM-0006,QCS5430,Qualcomm,RB3 Gen 2 Lite Core Kit Product Brief,manufacturer_product_brief,https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Qualcomm-RB3-Gen-2-Lite-Core-Kit-product-brief_87-78257-1-A.pdf,87-78257-1-A,,2026-10-09,link_only,in_review
+SRC-0007-01,CMP-EAM-0007,QRB5165,Qualcomm,Robotics RB6 Platform,manufacturer_product_page,https://www.qualcomm.com/internet-of-things/products/robotics-rb6-platform,web,,2026-10-09,link_only,in_review
+SRC-0008-01,CMP-EAM-0008,IQ-9075,Qualcomm,Dragonwing IQ9 Series,manufacturer_product_page,https://www.qualcomm.com/internet-of-things/products/iq9-series,web,,2026-10-09,link_only,in_review
+SRC-0009-01,CMP-EAM-0009,Core Ultra Series 3,Intel,Core Ultra Processors for Edge and Embedded,manufacturer_product_page,https://www.intel.com/content/www/us/en/products/details/processors/core-ultra/edge.html,web,,2026-10-09,link_only,in_review
+SRC-0010-01,CMP-EAM-0010,SM-K26-XCL2GC / SM-K26-XCL2GI,AMD,Kria K26 SOM Data Sheet DS987 Ordering Information,manufacturer_datasheet,https://docs.amd.com/r/en-US/ds987-k26-som/Ordering-Information,DS987 v1.6,,2026-10-09,link_only,in_review

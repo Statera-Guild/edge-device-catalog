@@ -1,0 +1,12 @@
+﻿claim_id,component_id,sku,field_path,raw_value,raw_unit,normalized_value,normalized_unit,precision,sparsity,power_mode,boundary,source_id,locator,review_state,reviewer,reviewed_at
+CLM-WA2-001,CMP-EAM-0006,QCS6490,devkit.core.soc,QCS6490,,QCS6490,,,,,SoC / kit / SOM (see field),SRC-0006-01,Core kit block diagram,in_review,,
+CLM-WA2-002,CMP-EAM-0006,QCS6490,devkit.core.ram,6,GB,6,GB,,,,SoC / kit / SOM (see field),SRC-0006-01,Core kit block diagram,in_review,,
+CLM-WA2-003,CMP-EAM-0006,QCS5430,devkit.lite.soc,QCS5430,,QCS5430,,,,,SoC / kit / SOM (see field),SRC-0006-02,Lite core kit block diagram,in_review,,
+CLM-WA2-004,CMP-EAM-0007,QRB5165,soc.cpu.name,Kryo 585,,Kryo 585,,,,,SoC / kit / SOM (see field),SRC-0007-01,Specifications CPU,in_review,,
+CLM-WA2-005,CMP-EAM-0007,QRB5165,soc.cpu.max_frequency,2.84,GHz,2.84,GHz,,,,SoC / kit / SOM (see field),SRC-0007-01,Specifications CPU,in_review,,
+CLM-WA2-006,CMP-EAM-0007,QRB5165,soc.gpu.name,Adreno 650,,Adreno 650,,,,,SoC / kit / SOM (see field),SRC-0007-01,Specifications GPU,in_review,,
+CLM-WA2-007,CMP-EAM-0008,IQ9 Series,family.advertised_ai_performance,100,TOPS,100,TOPS,,,,family,SRC-0008-01,Portfolio comparison; precision not established,in_review,,
+CLM-WA2-008,CMP-EAM-0009,Core Ultra Series 3,family.configurable_tdp_min,15,W,15,W,,,,family,SRC-0009-01,Industrial durability; platform range not individual SKU,in_review,,
+CLM-WA2-009,CMP-EAM-0009,Core Ultra Series 3,family.configurable_tdp_max,65,W,65,W,,,,family,SRC-0009-01,Industrial durability; platform range not individual SKU,in_review,,
+CLM-WA2-010,CMP-EAM-0010,SM-K26-XCL2GC,sku.temperature_grade,Commercial,,Commercial,,,,,SoC / kit / SOM (see field),SRC-0010-01,Table 1 Ordering Information,in_review,,
+CLM-WA2-011,CMP-EAM-0010,SM-K26-XCL2GI,sku.temperature_grade,Industrial,,Industrial,,,,,SoC / kit / SOM (see field),SRC-0010-01,Table 1 Ordering Information,in_review,,
