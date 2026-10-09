@@ -56,7 +56,6 @@ Maintained under [Statera-Guild](https://github.com/Statera-Guild). This reposit
 | CMP-EAM-0038 | NXP | i.MX 8M Mini | Applications processor / SoC | [Open](component_cards/CMP-EAM-0038.md) |
 | CMP-EAM-0039 | Hailo | Hailo-8L | Standalone neural-network inference accelerator | [Open](component_cards/CMP-EAM-0039.md) |
 | CMP-EAM-0040 | AMD | Kria K24 | Adaptive SoM / production module family | [Open](component_cards/CMP-EAM-0040.md) |
-
 | CMP-EAM-0041 | Texas Instruments | TDA4VL | Automotive / robotics vision SoC | [Open](component_cards/CMP-EAM-0041.md) |
 | CMP-EAM-0042 | Texas Instruments | AM62A | Vision AI SoC | [Open](component_cards/CMP-EAM-0042.md) |
 | CMP-EAM-0043 | Texas Instruments | AM67A | Vision AI SoC | [Open](component_cards/CMP-EAM-0043.md) |
