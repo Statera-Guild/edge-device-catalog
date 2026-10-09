@@ -6,7 +6,7 @@ Maintained under [Statera-Guild](https://github.com/Statera-Guild). This reposit
 
 ## Catalog at a glance
 
-- **30 public Component Cards**: `CMP-EAM-0001` through `CMP-EAM-0030` (as of 2026-10-09).
+- **35 public Component Cards**: `CMP-EAM-0001` through `CMP-EAM-0035` (as of 2026-10-09).
 - **Guild / class:** Compute (`CMP`) / Edge AI Module (`EAM`). Component IDs are immutable.
 - **Device forms:** SoC, SOM, SBC / development kit, industrial computing platform, and standalone AI accelerator. **These are not interchangeable**; see each card's device form and integration boundary.
 - **Status vocabulary:** `listed` = initial product entry; `documented` = public manufacturer documentation has been recorded. **Neither means independently tested, verified, certified, recommended, or production-qualified.** See individual cards for current status.
@@ -46,6 +46,11 @@ Maintained under [Statera-Guild](https://github.com/Statera-Guild). This reposit
 | CMP-EAM-0028 | BrainChip | Akida | Neuromorphic AI processor family | [Open](component_cards/CMP-EAM-0028.md) |
 | CMP-EAM-0029 | Axelera AI | Metis | AI accelerator | [Open](component_cards/CMP-EAM-0029.md) |
 | CMP-EAM-0030 | Sophgo | BM1684X | AI inference processor | [Open](component_cards/CMP-EAM-0030.md) |
+| CMP-EAM-0031 | NVIDIA | Jetson AGX Orin Industrial | Industrial-grade Jetson system-on-module (SOM) variant | [Open](component_cards/CMP-EAM-0031.md) |
+| CMP-EAM-0032 | NVIDIA | IGX Orin | Industrial edge AI platform / system family | [Open](component_cards/CMP-EAM-0032.md) |
+| CMP-EAM-0033 | Qualcomm | Dragonwing IQ8 | Industrial IoT / edge AI SoC family | [Open](component_cards/CMP-EAM-0033.md) |
+| CMP-EAM-0034 | AMD | Versal AI Edge | Adaptive SoC family with programmable logic and AI engines | [Open](component_cards/CMP-EAM-0034.md) |
+| CMP-EAM-0035 | NXP | i.MX 93 | Applications processor / SoC family | [Open](component_cards/CMP-EAM-0035.md) |
 
 ## Reference documents
 
