@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PAI-SG public component record v0.1",
+  "type": "object",
+  "required": [
+    "component_id",
+    "manufacturer",
+    "product_family",
+    "device_form",
+    "catalog_status",
+    "evidence_review_state"
+  ],
+  "properties": {
+    "component_id": {
+      "type": "string",
+      "pattern": "^CMP-EAM-[0-9]{4}$"
+    },
+    "manufacturer": {
+      "type": "string"
+    },
+    "product_family": {
+      "type": "string"
+    },
+    "device_form": {
+      "enum": [
+        "soc",
+        "som",
+        "sbc",
+        "devkit",
+        "ipc",
+        "accelerator",
+        "mcu",
+        "fpga_soc",
+        "platform",
+        "other"
+      ]
+    },
+    "catalog_status": {
+      "enum": [
+        "listed",
+        "documented"
+      ]
+    },
+    "evidence_review_state": {
+      "enum": [
+        "not_started",
+        "in_review",
+        "source_checked",
+        "blocked"
+      ]
+    },
+    "exact_sku": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}

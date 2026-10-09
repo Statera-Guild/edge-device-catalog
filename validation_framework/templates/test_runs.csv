@@ -1,0 +1,1 @@
+﻿test_id,component_id,sku,carrier,algorithm_family,model_hash,dataset_version,os_kernel_bsp,runtime_compiler,precision,batch,input_shape,ambient_C,cooling,power_mode,accuracy_metric,accuracy_value,fps_sustained,latency_p50_ms,latency_p95_ms,latency_p99_ms,system_power_W,duration_min,evidence_id
