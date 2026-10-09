@@ -6,7 +6,7 @@ Maintained under [Statera-Guild](https://github.com/Statera-Guild). This reposit
 
 ## Catalog at a glance
 
-- **35 public Component Cards**: `CMP-EAM-0001` through `CMP-EAM-0035` (as of 2026-10-09).
+- **60 public Component Cards**: `CMP-EAM-0001` through `CMP-EAM-0060` (as of 2026-10-09).
 - **Guild / class:** Compute (`CMP`) / Edge AI Module (`EAM`). Component IDs are immutable.
 - **Device forms:** SoC, SOM, SBC / development kit, industrial computing platform, and standalone AI accelerator. **These are not interchangeable**; see each card's device form and integration boundary.
 - **Status vocabulary:** `listed` = initial product entry; `documented` = public manufacturer documentation has been recorded. **Neither means independently tested, verified, certified, recommended, or production-qualified.** See individual cards for current status.
@@ -51,6 +51,32 @@ Maintained under [Statera-Guild](https://github.com/Statera-Guild). This reposit
 | CMP-EAM-0033 | Qualcomm | Dragonwing IQ8 | Industrial IoT / edge AI SoC family | [Open](component_cards/CMP-EAM-0033.md) |
 | CMP-EAM-0034 | AMD | Versal AI Edge | Adaptive SoC family with programmable logic and AI engines | [Open](component_cards/CMP-EAM-0034.md) |
 | CMP-EAM-0035 | NXP | i.MX 93 | Applications processor / SoC family | [Open](component_cards/CMP-EAM-0035.md) |
+| CMP-EAM-0036 | Texas Instruments | AM68A | Embedded vision AI processor / SoC | [Open](component_cards/CMP-EAM-0036.md) |
+| CMP-EAM-0037 | Renesas | RZ/V2N | Vision AI MPU / SoC | [Open](component_cards/CMP-EAM-0037.md) |
+| CMP-EAM-0038 | NXP | i.MX 8M Mini | Applications processor / SoC | [Open](component_cards/CMP-EAM-0038.md) |
+| CMP-EAM-0039 | Hailo | Hailo-8L | Standalone neural-network inference accelerator | [Open](component_cards/CMP-EAM-0039.md) |
+| CMP-EAM-0040 | AMD | Kria K24 | Adaptive SoM / production module family | [Open](component_cards/CMP-EAM-0040.md) |
+
+| CMP-EAM-0041 | Texas Instruments | TDA4VL | Automotive / robotics vision SoC | [Open](component_cards/CMP-EAM-0041.md) |
+| CMP-EAM-0042 | Texas Instruments | AM62A | Vision AI SoC | [Open](component_cards/CMP-EAM-0042.md) |
+| CMP-EAM-0043 | Texas Instruments | AM67A | Vision AI SoC | [Open](component_cards/CMP-EAM-0043.md) |
+| CMP-EAM-0044 | Renesas | RZ/V2L | Vision AI MPU | [Open](component_cards/CMP-EAM-0044.md) |
+| CMP-EAM-0045 | Renesas | RZ/V2M | Vision AI MPU | [Open](component_cards/CMP-EAM-0045.md) |
+| CMP-EAM-0046 | NXP | i.MX 8M Nano | Embedded application SoC / host processor | [Open](component_cards/CMP-EAM-0046.md) |
+| CMP-EAM-0047 | NXP | i.MX 8ULP | Ultra-low-power application SoC | [Open](component_cards/CMP-EAM-0047.md) |
+| CMP-EAM-0048 | NXP | i.MX 91 | Industrial embedded application SoC | [Open](component_cards/CMP-EAM-0048.md) |
+| CMP-EAM-0049 | NXP | S32G3 | Vehicle network processor / gateway SoC | [Open](component_cards/CMP-EAM-0049.md) |
+| CMP-EAM-0050 | STMicroelectronics | STM32MP257 | Industrial application MPU | [Open](component_cards/CMP-EAM-0050.md) |
+| CMP-EAM-0051 | STMicroelectronics | STM32N6 | AI-capable microcontroller family | [Open](component_cards/CMP-EAM-0051.md) |
+| CMP-EAM-0052 | STMicroelectronics | STM32H7 | High-performance microcontroller family | [Open](component_cards/CMP-EAM-0052.md) |
+| CMP-EAM-0053 | Microchip | PolarFire SoC | FPGA SoC | [Open](component_cards/CMP-EAM-0053.md) |
+| CMP-EAM-0054 | Microchip | SAM9X75 | Industrial MPU | [Open](component_cards/CMP-EAM-0054.md) |
+| CMP-EAM-0055 | Intel | Atom x7000E Series | Embedded CPU family | [Open](component_cards/CMP-EAM-0055.md) |
+| CMP-EAM-0056 | Intel | Core Ultra 200V | Mobile processor family / edge AI host | [Open](component_cards/CMP-EAM-0056.md) |
+| CMP-EAM-0057 | AMD | Ryzen Embedded V3000 | Embedded processor family | [Open](component_cards/CMP-EAM-0057.md) |
+| CMP-EAM-0058 | AMD | Versal AI Edge Series Gen 2 | Adaptive SoC family | [Open](component_cards/CMP-EAM-0058.md) |
+| CMP-EAM-0059 | Hailo | Hailo-15 | Vision AI processor family | [Open](component_cards/CMP-EAM-0059.md) |
+| CMP-EAM-0060 | Ambarella | CV3 | Automotive AI vision SoC family | [Open](component_cards/CMP-EAM-0060.md) |
 
 ## Reference documents
 
