@@ -1,0 +1,7 @@
+﻿source_id,component_id,sku,publisher,document_title,source_type,url,revision,published_at,accessed_at,license_publication,review_state
+SRC-A001,CMP-EAM-0001,Jetson Orin Nano Super Developer Kit,NVIDIA,Jetson Orin Nano Super Developer Kit,official_product,https://www.nvidia.com/ko-kr/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/,TBD,TBD,2026-10-09,link_only,source_checked
+SRC-A002,CMP-EAM-0002,Orin NX 8GB/16GB family,NVIDIA,Jetson Orin specifications,official_product,https://www.nvidia.com/ko-kr/autonomous-machines/embedded-systems/jetson-orin/,TBD,TBD,2026-10-09,link_only,source_checked
+SRC-A003,CMP-EAM-0003,AGX Orin 32GB/64GB,NVIDIA,Jetson AGX Orin technical brief,official_technical_brief,https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf21/jetson-orin/nvidia-jetson-agx-orin-technical-brief.pdf,TBD,TBD,2026-10-09,link_only,source_checked
+SRC-A004,CMP-EAM-0004,Jetson Thor T4000/T5000,NVIDIA,Jetson Thor series modules datasheet,official_datasheet_reference,https://developer.nvidia.com/embedded/jetson-thor,TBD,TBD,2026-10-09,link_only,source_checked
+SRC-A005,CMP-EAM-0005,QRB5165 / Robotics RB5,Qualcomm,Robotics RB5 Development Kit Hardware Overview,official_hardware_guide,https://docs.qualcomm.com/bundle/publicresource/topics/80-88500-5/platform_hardware_overview.html,TBD,TBD,2026-10-09,link_only,source_checked
+SRC-A006,CMP-EAM-0005,QRB5165,Qualcomm,QRB5165 product specifications,official_product,https://www.qualcomm.com/internet-of-things/products/q5-series/qrb5165,TBD,TBD,2026-10-09,link_only,source_checked

@@ -1,0 +1,11 @@
+﻿claim_id,component_id,sku,field_path,raw_value,raw_unit,normalized_value,normalized_unit,precision,sparsity,power_mode,boundary,source_id,locator,review_state,reviewer,reviewed_at
+CLM-A0001,CMP-EAM-0001,Jetson Orin Nano Super Developer Kit,ai.peak_tops,67,TOPS,67,TOPS,INT8,TBD,TBD,manufacturer_spec,SRC-A001,Specifications table,source_checked,TBD,TBD
+CLM-A0002,CMP-EAM-0001,Jetson Orin Nano Super Developer Kit,memory.capacity,8,GB,8,GB,,TBD,TBD,manufacturer_spec,SRC-A001,Specifications table,source_checked,TBD,TBD
+CLM-A0003,CMP-EAM-0001,Jetson Orin Nano Super Developer Kit,memory.bandwidth,102,GB/s,102,GB/s,,TBD,TBD,manufacturer_spec,SRC-A001,Specifications table,source_checked,TBD,TBD
+CLM-A0004,CMP-EAM-0001,Jetson Orin Nano Super Developer Kit,module.power_mode_min,7,W,7,W,,TBD,TBD,manufacturer_spec,SRC-A001,Specifications table,source_checked,TBD,TBD
+CLM-A0005,CMP-EAM-0001,Jetson Orin Nano Super Developer Kit,module.power_mode_max,25,W,25,W,,TBD,TBD,manufacturer_spec,SRC-A001,Specifications table,source_checked,TBD,TBD
+CLM-A0006,CMP-EAM-0003,AGX Orin 32GB,ai.peak_tops,200,TOPS,200,TOPS,INT8,TBD,TBD,manufacturer_spec,SRC-A003,Table 1,source_checked,TBD,TBD
+CLM-A0007,CMP-EAM-0003,AGX Orin 64GB,ai.peak_tops,275,TOPS,275,TOPS,INT8,TBD,TBD,manufacturer_spec,SRC-A003,Table 1,source_checked,TBD,TBD
+CLM-A0008,CMP-EAM-0003,AGX Orin 32GB,memory.capacity,32,GB,32,GB,,TBD,TBD,manufacturer_spec,SRC-A003,Table 1,source_checked,TBD,TBD
+CLM-A0009,CMP-EAM-0003,AGX Orin 64GB,memory.capacity,64,GB,64,GB,,TBD,TBD,manufacturer_spec,SRC-A003,Table 1,source_checked,TBD,TBD
+CLM-A0010,CMP-EAM-0005,QRB5165,ai.peak_tops,15,TOPS,15,TOPS,,TBD,TBD,manufacturer_spec,SRC-A006,Specifications: TOPS,source_checked,TBD,TBD
